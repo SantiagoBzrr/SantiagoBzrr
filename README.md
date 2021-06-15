@@ -3,15 +3,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on developing my programing skills in order to expand my work field
-- 
+
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 
+ 
 - 🤔 I’m looking for help with **JavaScript, Python**
-- 
+ 
 - 💬 (For now) Ask me about how to diagnose a bacterial or fungal infection. Soon I hope include some programing languages on the list
-- 
+ 
 - 📫 How to reach me: **santiago464@gmail.com**
-- 
+ 
 - ⚡ Fun fact: I'm a biologist with masters in medical microbiology  
 
 
