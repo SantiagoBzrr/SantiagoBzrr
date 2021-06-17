@@ -1,6 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Santiago Moura</h1>
 <h3 align="center">A microbiologist interested in learning programing</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on developing my programing skills in order to expand my work field
 
