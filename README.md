@@ -8,7 +8,7 @@
  
 - 🤔 I’m looking for help with **JavaScript, Python**
  
-- 💬 (For now) Ask me about how to diagnose a bacterial or fungal infection. Soon I hope include some programing languages on the list
+- 💬 (For now) Ask me about how to diagnose a bacterial or fungal infection. Soon I hope to include some programing languages on the list
  
 - 📫 How to reach me: **santiago464@gmail.com**
  
